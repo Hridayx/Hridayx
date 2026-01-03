@@ -1,5 +1,7 @@
 <img src="LegoMeHi-removebg-preview.png" width="130" align="right" />
 
+**Hey,I'm Hriday!!**
+
 **I use tech to solve problems that matter and create real value.**
 
 With an **AI & CompSci foundation from my undergrad**, I like working across domains where **code, data, and AI can create social impact**.
